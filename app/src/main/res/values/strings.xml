@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">HomeWork342</string>
+    <string name="textLang">Select language:</string>
+    <string name="textMargin">Select margin:</string>
+    <string name="textExample">This text is in English :)\n This text is in English :)\n This text is in English :)</string>
+    <string name="buttonOK">OK</string>
+
+    <string-array name="language">
+        <item>EN English</item>
+        <item>RU Russian</item>
+    </string-array>
+
+    <string-array name="margin">
+        <item>Margin 1</item>
+        <item>Margin 3</item>
+        <item>Margin 10</item>
+    </string-array>
+
+</resources>

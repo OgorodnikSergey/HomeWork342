@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">HomeWork342</string>
+    <string name="textLang">Выберите язык</string>
+    <string name="textMargin">Выберите отступ</string>
+    <string name="textExample">Этот текст на русском языке! \n Этот текст на русском языке! \n Этот текст на русском языке! :)</string>
+    <string name="buttonOK">OK</string>
+
+    <string-array name="language">
+        <item>EN Английский</item>
+        <item>RU Русский</item>
+    </string-array>
+
+    <string-array name="margin">
+        <item>Отступ 1</item>
+        <item>Отступ 3</item>
+        <item>Отступ 10</item>
+    </string-array>
+
+</resources>
